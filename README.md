@@ -351,19 +351,19 @@ This list includes a complete list of all sources ever used in the data set, sin
 <b>Acknowledgements:</b> We would like to express our gratitude to the following organizations for their support of our Centre's COVID-19 mapping and modeling efforts:
 
 -<b>Financial Support:</b>
-  -Johns Hopkins University (https://www.jhu.edu/)
-  -National Science Foundation (https://www.nsf.gov/)
-  -Bloomberg Philanthropies (https://www.bloomberg.org/)
-  -Stavros Niarchos Foundation (https://www.snf.org/)
+   -Johns Hopkins University (https://www.jhu.edu/)
+   -National Science Foundation (https://www.nsf.gov/)
+   -Bloomberg Philanthropies (https://www.bloomberg.org/)
+   -Stavros Niarchos Foundation (https://www.snf.org/)
   
 -<b>Resource Support:</b>
-  -Amazon Web Services (https://aws.amazon.com/)
-  -Slack (https://slack.com/intl/en-in)
-  -GitHub (https://github.com/)
+   -Amazon Web Services (https://aws.amazon.com/)
+   -Slack (https://slack.com/intl/en-in)
+   -GitHub (https://github.com/)
   
 -<b>Technical Support:</b>
-  -Johns Hopkins Applied Physics Lab (https://www.jhuapl.edu/)
-  -ArcGIS Living Atlas of the World (https://livingatlas.arcgis.com/en/home/)
+   -Johns Hopkins Applied Physics Lab (https://www.jhuapl.edu/)
+   -ArcGIS Living Atlas of the World (https://livingatlas.arcgis.com/en/home/)
 
 
 <b>Additional Information about the Visual Dashboard:</b>
