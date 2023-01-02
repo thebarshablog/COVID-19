@@ -357,8 +357,8 @@ This list includes a complete list of all sources ever used in the data set, sin
    -Stavros Niarchos Foundation (https://www.snf.org/)
   
 -<b>Resource Support:</b>
-   -Amazon Web Services (https://aws.amazon.com/)
-   -Slack (https://slack.com/intl/en-in)
+   -Amazon Web Services (https://aws.amazon.com/)<br>
+   -Slack (https://slack.com/intl/en-in)<br>
    -GitHub (https://github.com/)
   
 -<b>Technical Support:</b>
